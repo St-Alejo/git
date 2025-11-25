@@ -1,0 +1,11 @@
+hola desde vscode
+
+cambios desde mi rama local 
+
+nuevo cambio desde vscode
+
+nuevo cambio main 
+
+
+
+nuevo cambio desde main
